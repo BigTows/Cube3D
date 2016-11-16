@@ -14,3 +14,5 @@ X - Rotate Y -
 D - Rotate Z +
 #
 C - Rotate Z -
+#
+M - Turn on/off Timer (Animation)
