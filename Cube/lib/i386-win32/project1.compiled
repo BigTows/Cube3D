@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="M:\LazarusX32\fpc\3.0.0\bin\i386-win32\fpc.exe" Date="1213097031"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiD:\Cube\lib\i386-win32 -FuM:\LazarusX32\lcl\units\i386-win32\win32 -FuM:\LazarusX32\lcl\units\i386-win32 -FuM:\LazarusX32\components\lazutils\lib\i386-win32 -FuM:\LazarusX32\packager\units\i386-win32 -FuD:\Cube\ -FUD:\Cube\lib\i386-win32\ -dLCL -dLCLwin32 project1.lpr"/>
-</CONFIG>
