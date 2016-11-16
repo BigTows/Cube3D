@@ -1,7 +1,7 @@
 # Cube3D
 3D Cube with Control
 # Control
-*Use Lower Case*
+*Good Luck ;)*
 #
 A - Rotate X +
 
