@@ -1,0 +1,25 @@
+object MainScene: TMainScene
+  Left = 296
+  Height = 830
+  Top = 570
+  Width = 1201
+  Caption = 'Cude 3D'
+  ClientHeight = 830
+  ClientWidth = 1201
+  OnCreate = FormCreate
+  OnKeyPress = FormKeyPress
+  LCLVersion = '1.6.0.4'
+  object CanvasScene: TImage
+    Left = 0
+    Height = 1200
+    Top = 0
+    Width = 1200
+  end
+  object Timer: TTimer
+    Enabled = False
+    Interval = 35
+    OnTimer = TimerTimer
+    left = 752
+    top = 24
+  end
+end
